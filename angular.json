@@ -39,7 +39,9 @@
                 "input": "src/global.scss"
               }
             ],
-            "scripts": []
+            "scripts": [
+              "libs/jquery.js"
+            ]
           },
           "configurations": {
             "production": {
